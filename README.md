@@ -1,4 +1,4 @@
-<img src="1.png"  width="1500" alt="">
+![Online-Reservation-Management-System-in-Restaurant](1.png)
 
 
 
