@@ -1,5 +1,7 @@
 <h3 align="center">Online-Reservation-Management-System-in-Restaurant</h3>
-![1](https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/1.png)
+<img width="1500" src="https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/b22e49de-9898-43f0-8fc9-b283aa5f1e17.PNG">
+
+
 ![2](https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/e414f655-b383-4ee5-80ce-510a3058d5ae)
 ![3](https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/2c274109-7750-4faf-944b-90d045746d0f)
 ![4](https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/2aacc54e-4c8a-4ad2-8fed-687c9ca432c1)
