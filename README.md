@@ -1,4 +1,4 @@
-<h3 align="center">Online-Reservation-Management-System-in-Restaurant</h3>
+<h1 align="center">Online-Reservation-Management-System-in-Restaurant</h1><hr>
 <img width="1500" src="https://github.com/DeeptiWani/Online-Reservation-Management-System-in-Restaurant/assets/142917253/b22e49de-9898-43f0-8fc9-b283aa5f1e17.PNG">
 
 
